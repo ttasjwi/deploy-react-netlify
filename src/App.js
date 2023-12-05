@@ -4,7 +4,8 @@ const App = () => {
     return (
         <div className="App">
             Hello, World!<br/>
-            version = 1
+            Bye, World!<br/>
+            version = 2
         </div>
     );
 };
