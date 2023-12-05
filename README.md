@@ -74,3 +74,7 @@ yarn add eslint eslint-config-react-app --dev
 ```
 
 ---
+
+## 배포
+- <a href="https://vercel.com" target="_blank">Vercel</a>
+- 리포지토리 등록, 배포브랜치 설정을 해주면 해당 브랜치 푸시 과정에서 CD를 지원
